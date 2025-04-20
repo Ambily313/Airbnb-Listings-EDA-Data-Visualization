@@ -1,4 +1,4 @@
-# 🏡 Analyzing Airbnb Listings: A Python-Based Data Study
+# 🏡 Airbnb Listings – Exploratory Data Analysis & Visualization with Pandas
 
 This project explores the Airbnb dataset to uncover trends in pricing, availability, and neighborhood popularity using Python libraries like Pandas, Matplotlib, and Seaborn.
 
